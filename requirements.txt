@@ -5,3 +5,5 @@ ultralytics
 matplotlib
 onnxruntime-gpu
 jupyterlab
+tqdm
+roboflow
